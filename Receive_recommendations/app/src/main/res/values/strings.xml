@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Receive_recommendations</string>
+    <string name="action_close"
+        description="Text describing the close ActionBar action."
+        project="receive_recommendations"
+        >Close</string>
+
+    <string name="app_id">458299744366426</string>
+
+    <string name="loading"
+        description="Indicates loading"
+        project="receive_recommendations"
+        >Loading&#8230;</string>
+
+    <string name="gathering_recommendations"
+        description="In place of saying loading, indicates we are gathering personalized app recommendations"
+        project="receive_recommendations"
+        >Gathering personalized recommendations for you</string>
+
+    <string name="recommendations_failed"
+        description="In place of saying loading, indicates we are gathering personalized app recommendations"
+        project="receive_recommendations"
+        >Unable to display recommendations at this time.  Please check you connection or try again later</string>
+
+    <string name="install_now"
+        description="A button encouraging the user to install the application now"
+        project="receive_recommendations"
+        >Install Now</string>
+
+    <string name="sponsored_subtitle"
+        description="A button encouraging the user to install the application now"
+        project="receive_recommendations"
+        >Sponsored · %1$s</string>
+
+    <string name="sponsored_label"
+        description="A button encouraging the user to install the application now"
+        project="receive_recommendations"
+        >Sponsored</string>
+
+    <string name="recommendations"
+        description="A heading for the recommended applications to download"
+        project="receive_recommendations"
+        >New recommendations for you</string>
+
+    <string name="subtitle"
+        description="Describes the purpose of the application - to surface application recommendations"
+        project="receive_recommendations"
+        >Check out recommendations based on your interests, what\'s new, and current trends.</string>
+
+    <string name="license_error"
+        description="Indicates there was an error while retreiving the license governing the application"
+        project="receive_recommendations"
+        >Unable to display.  Please check your connection.</string>
+
+    <string name="about"
+        description="A link to information about the app"
+        project="receive_recommendations"
+        >About</string>
+
+    <string name="sponsored"
+        description="Indicates the applications are sponsored advertisements"
+        project="receive_recommendations"
+        >sponsored</string>
+
+    <string name="ad_choices"
+        description="Text that links to a page for users to modify ad targeting"
+        project="receive_recommendations"
+        >ad choices</string>
+
+    <string name="close_dialog"
+        description="Close alert dialog"
+        project="receive_recommendations"
+        >Close</string>
+
+    <string name="retry_error_message"
+        description="Message shown when no app recommendations can be loaded due to transient errors"
+        project="receive_recommendations"
+        >Unable to display recommendations right now. Please check your connection.</string>
+
+    <string name="unsupported_error_message"
+        description="Message shown when no ad request fails, and the error is not transient"
+        project="receive_recommendations"
+        >Sorry, Get Recommendations is no longer available. You can disable this app from your phone\'s applications manager.</string>
+
+    <string name="try_again"
+        description="Call to action to retry the the recommendations load."
+        project="receive_recommendations"
+        >Try Again</string>
+
+    <string name="about_title"
+        description="Title for a dialog explaining about the app"
+        project="receive_recommendations"
+        >About Get Recommendations</string>
+</resources>

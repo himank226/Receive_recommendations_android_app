@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "logindemo-cf458",
+    "project_number": "748733614549",
+    "name": "Logindemo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748733614549:android:903180b1afd43224",
+        "client_id": "android:com.example.adarsh.Logindemo",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.adarsh.Logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748733614549-r2a1i61j2i7fvl3j2c1mqj8vdcjkpbe3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adarsh.Logindemo",
+            "certificate_hash": "512B1435F9CD352A87EBE008DC702AACC54EEA58"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

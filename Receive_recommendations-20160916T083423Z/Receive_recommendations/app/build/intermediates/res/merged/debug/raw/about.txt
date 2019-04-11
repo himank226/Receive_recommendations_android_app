@@ -1,0 +1,5 @@
+Get Recommendations
+
+This is an Audience Network  app
+which lets to get recommendations.
+

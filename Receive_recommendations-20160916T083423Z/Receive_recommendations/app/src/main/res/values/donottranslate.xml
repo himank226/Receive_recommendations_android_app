@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <!-- Important URIs -->
+    <string name="ad_choices_url">https://m.facebook.com/ads/ad_choices</string>
+
+    <!-- App Identification Information -->
+
+
+    <string name="interpunct">·</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      android:showAsAction="collapseActionView"
+    >
+    <item
+        android:id="@+id/menu_overflow"
+        android:icon="@drawable/fbui_3_dots_v_l"
+        android:showAsAction="always">
+        <menu
+            android:showAsAction="collapseActionView"
+            >
+            <item
+                android:id="@+id/about"
+                android:showAsAction="never"
+                android:title="@string/about"
+                />
+        </menu>
+    </item>
+</menu>
